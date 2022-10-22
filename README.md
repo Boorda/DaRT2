@@ -1,7 +1,10 @@
-# DaRT
+# DaRT2
+
+# Note: This has not been update with new WPF interface at this time.
 
 ### Description
 DaRT is a graphical interface for the BattlEye RCon protocol which can be used for ArmA 2, ArmA 3, and DayZ.
+DaRT2 is the exact same functionality only with a new WPF interface.
 
 It utilizes the [BattleNET](https://github.com/marceldev89/BattleNET) library by [marceldev89](https://github.com/marceldev89).
 
